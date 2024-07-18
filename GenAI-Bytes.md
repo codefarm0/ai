@@ -1,4 +1,4 @@
-## Questions
+## Gen AI Bytes
 ### Machine Learning vs. Deep Learning vs. Generative AI
 - Machine Learning (ML): Uses algorithms to learn from data, improve over time; applications include recommendation systems and predictive analytics.
 - Deep Learning (DL): Subset of ML using deep neural networks; excels in image/speech recognition and natural language processing.
